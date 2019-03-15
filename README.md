@@ -1,5 +1,7 @@
 # BattleShip-game-AI
 
+Design and implement several algorithms for BattleShip game.  
+
 # Command
 python BattleShipWithGui.py [plyer1] [player2] -g -s -n [1]  
 
